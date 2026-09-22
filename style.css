@@ -156,8 +156,7 @@ p {
  
 .card img {
     width: 100%;
-    aspect-ratio: 3 / 4;
-    height: auto;
+    height: 220px;
     object-fit: contain;
     background-color: #14251c;
     filter: brightness(0.9);
