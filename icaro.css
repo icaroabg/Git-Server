@@ -1,0 +1,112 @@
+*{font: 18px verdana;}
+ 
+.back{
+    background-image: linear-gradient(rgba(6, 11, 24, 0.7), rgba(6, 11, 24, 0.7)), url('https://github.com/icaroabg/Imagens-/blob/main/UNIVERSO-350.jpg?raw=true');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+ 
+.titulo2{
+    font-weight: bold;
+    color: white;
+    font-size: 32px;
+}
+.cor{color:rgb(255, 255, 255);
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+.sonho{
+    color: gold;
+    font-weight: bold;
+    font-size: 20px;
+}
+ 
+.alinhar{
+    text-align: center;
+}
+ 
+.al{
+    display: block;
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+ 
+.menu li{
+    display: inline;
+    background-color: rgb(7, 7, 230);
+    color: rgb(5, 53, 107);
+    padding-left: 40px;
+    padding-right: 40px;
+}
+ 
+.titulo{
+    border: 2px solid rgb(7, 6, 6);
+    box-shadow: 5px 5px 5px 5px rgb(3, 81, 182);
+    border-radius: 0px;
+    font-size: 18px;
+    color: rgb(190, 207, 231);
+    max-width: 700px;
+    margin: 20px auto;
+    padding: 10px;
+    display: block;
+    background-color: rgb(22, 22, 58);
+}
+.titulo1{
+    border: 2px solid rgb(7, 6, 6);
+    box-shadow: 5px 5px 5px 5px rgb(3, 81, 182);
+    border-radius: 0px;
+    font-size: 18px;
+    color: rgb(190, 207, 231);
+    margin: 20px auto;
+    padding: 15px;
+    box-sizing: border-box;
+    width: 350px;
+    text-align: left;
+    background-color: rgb(22, 22, 58);
+}
+ 
+.rodape{
+    font-size: 16px;
+}
+ 
+a.abegoti:link{
+    text-decoration: absolute;
+    color: rgb(250, 246, 246);
+}
+ 
+a.abegoti:visited{
+    text-decoration: none;
+    color: rgb(147, 182, 206);
+}
+ 
+a.abegoti:active{
+    text-decoration: none;
+    color: white;
+}
+ 
+a.voltar:link{
+    text-decoration: none;
+    color: gold;
+}
+ 
+a.voltar:visited{
+    text-decoration: none;
+    color: gold;
+}
+ 
+a.voltar:active{
+    text-decoration: none;
+    color: white;
+}
+ 
+li:hover{
+    text-decoration: underline;
+    color: rgb(7, 7, 7);
+    border: 5px solid rgb(255, 254, 254);
+    background-image: linear-gradient(to right, rgb(63, 138, 224), rgb(1, 47, 71));
+}
+ 
