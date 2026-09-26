@@ -1,0 +1,206 @@
+
+* {
+    font-family: Verdana;
+}
+
+body {
+    margin: 0;
+    background-color: black;
+    color: white;
+}
+
+#principal {
+    width: 80%;
+    margin: 0 auto;
+}
+
+#topo {
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    border-bottom: 2px solid #05cc8a;
+}
+
+#topo h1{
+    font-size: 35px;
+    letter-spacing: 5px;
+}
+
+#topo p{
+    color: #aaaaaa;
+}
+
+
+#menu {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#sobre {
+    margin-top: 80px;
+    margin-bottom: 80px;
+    padding: 30px;
+    border-left: 3px solid #00cc88;
+    background-color: #111111;
+}
+
+#formacao {
+    margin-top: 80px;
+    margin-bottom: 80px;
+    padding: 30px;
+    border-left: 3px solid #00cc88;
+    background-color: #111111;
+}
+
+#habilidades{
+    margin-top: 80px;
+    margin-bottom: 80px;
+    padding: 30px;
+    border-left: 3px solid #00cc88;
+    background-color: #111111;
+}
+
+#inspiracao{
+    margin-top: 80px;
+    margin-bottom: 80px;
+    padding: 30px;
+    border-left: 3px solid #00cc88;
+    background-color: #111111;
+}
+
+#objetivos {
+    margin-top: 80px;
+    margin-bottom: 80px;
+    padding: 30px;
+    border-left: 3px solid #00cc88;
+    background-color: #111111;
+}
+
+#contato {
+    margin-top: 80px;
+    margin-bottom: 80px;
+    padding: 30px;
+    border-left: 3px solid #00cc88;
+    background-color: #111111;
+}
+
+#menu ul {
+    padding: 0;
+}
+
+#menu li {
+    display: inline;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+#menu a {
+    color: white;
+
+    text-decoration: none;
+}
+
+#menu li:hover {
+    border-bottom: 2px solid #00cc88;
+}
+
+#menu a:hover {
+    color: #00cc88;
+}
+
+
+#inicio {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+#inicio h2 {
+    font-size: 50px;
+    margin-top: 5px;
+}
+
+#inicio p {
+    font-size: 20px;
+}
+
+.verde {
+    color: #00cc88;
+}
+
+h2 {
+    font-size: 30px;
+
+    color: white;
+}
+
+
+p {
+    font-size: 17px;
+    line-height: 30px;
+}
+
+
+table {
+    width: 100%;
+    margin: 30px auto;
+    border-spacing: 5px;
+}
+
+th,
+td {
+    padding: 15px;
+    text-align: center;
+    border: 1px solid #555555;
+}
+
+th {
+    background-color: #003d2b;
+}
+
+.lista {
+    list-style-type: square;
+}
+
+li {
+    padding: 8px;
+}
+
+
+a {
+    color: #00cc88;
+}
+
+
+.voltar {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+
+footer {
+    text-align: center;
+    border-top: 1px solid #333333;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #777777;
+}
+
+#inicio {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    overflow: auto;
+}
+
+.texto {
+    float: left;
+    width: 60%;
+}
+
+.foto {
+    float: right;
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+}

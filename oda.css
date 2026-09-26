@@ -1,0 +1,67 @@
+body {
+            background-color: lightgray;
+            font-family: Arial;
+            color: black;
+            margin: 30px;
+        }
+
+        h1, h2 {
+            color: darkblue;
+        }
+
+        .caixa {
+            background-color: white;
+            padding: 20px;
+            margin-bottom: 20px;
+            border: 1px solid gray;
+        }
+
+        .centro {
+            text-align: center;
+        }
+
+        a {
+            color: blue;
+        }
+body {
+            background-color: lightgray;
+            font-family: Arial;
+            color: black;
+            margin: 30px;
+        }
+
+        h1, h2 {
+            color: darkblue;
+        }
+
+        h2 {
+            border-bottom: 2px solid blue;
+            padding-bottom: 5px;
+        }
+
+        .caixa {
+            background-color: white;
+            padding: 20px;
+            margin-bottom: 20px;
+            border: 1px solid gray;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        th, td {
+            border: 1px solid black;
+            padding: 10px;
+            text-align: left;
+        }
+
+        th {
+            background-color: darkblue;
+            color: white;
+        }
+
+        a {
+            color: blue;
+        }

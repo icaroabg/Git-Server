@@ -1,0 +1,75 @@
+.menu li{display: inline;
+        font-size:  25px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        padding-left: 10px;
+        padding-right: 10px;
+        background-color: darkblue;
+        text-decoration: none;
+        border: 3px outset darkblue;
+        border-radius: 5px;
+        margin: auto;
+        text-decoration: none;
+    }
+.alinha{
+    text-align: center;
+}
+.titulo{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: silver;
+    font-size: 40px;
+    width: 40%;
+    margin: 0 auto;
+    background-color: darkblue;
+    text-align: center;
+    border-radius: 10px;
+    border: 3px inset darkblue;
+}
+.texto{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    text-align: center;
+    background-color: darkblue;
+    color: goldenrod;
+    width: 40%; 
+    margin: 0 auto;
+    border: 3px outset darkblue;
+    border-radius: 10px;
+}
+li:link{
+    text-decoration: none;
+}
+li:visited{
+    text-decoration: none;
+}
+li:hover{
+    background-color: darkblue;
+    color: goldenrod;
+    width: 30%;
+    font-size: 40px;
+    border: 3px outset darkblue;
+}
+li:active{
+    text-decoration: none;
+}
+.a{
+    text-decoration: none;
+    color: goldenrod;
+}
+.voltar{
+    display: block;
+    width: 7%;
+    margin: 10px auto;
+    text-decoration: none;
+}
+.body{
+    background-color:rgba(100, 84, 238, 0.273);
+}
+.b{
+    text-align: center;
+}
+.img{
+    width: 350px;
+    height: 600px;
+    display: block;
+    margin: auto;
+}
