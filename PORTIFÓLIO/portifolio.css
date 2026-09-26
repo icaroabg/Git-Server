@@ -1,0 +1,70 @@
+.titulo
+{
+    color: white;
+    background-color: darkblue;
+    box-shadow: 5px 5px 5px white;
+    text-align: center;
+    font-size: 35px;
+}
+
+*
+{
+    font-family: verdana;
+    color: white;
+}
+
+body{background-color: black;
+width: 100%;
+margin: 0;
+text-align: center;}
+
+.imagem
+{
+    width: 270px;
+    height: 270px;
+    border-radius: 50%;
+    border: 5px solid darkblue;
+    display: flex;
+    margin: 0 auto;
+}
+
+.sub
+{
+    background-color: darkblue;
+    box-shadow: 5px 5px 5px white;
+    padding-right: 370px;
+    padding-left: 370px;
+    font-size: 30px;
+}
+.paragrafo
+{
+    font-size: 18px;
+    
+}
+.menu
+{
+    display: inline;
+    background-color: darkblue;
+    padding-left: 70px;
+    padding-right: 70px;
+    font-size: 22px;
+    color: gold;
+}
+
+li:hover
+{
+    border: 5px solid white;
+}
+
+.def
+{
+    background-color: darkblue;
+    color: white;
+    display: inline;
+    font-size: 40px;
+}
+
+.arthur
+{
+    font-size: 25px;
+}
